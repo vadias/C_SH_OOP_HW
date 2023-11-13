@@ -1,0 +1,28 @@
+F:\GB\Start C#\Практика\OOP_HW9\bin\Debug\net6.0\OOP_HW9.exe
+F:\GB\Start C#\Практика\OOP_HW9\bin\Debug\net6.0\OOP_HW9.deps.json
+F:\GB\Start C#\Практика\OOP_HW9\bin\Debug\net6.0\OOP_HW9.runtimeconfig.json
+F:\GB\Start C#\Практика\OOP_HW9\bin\Debug\net6.0\OOP_HW9.dll
+F:\GB\Start C#\Практика\OOP_HW9\bin\Debug\net6.0\OOP_HW9.pdb
+F:\GB\Start C#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\Start C#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.AssemblyInfoInputs.cache
+F:\GB\Start C#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.AssemblyInfo.cs
+F:\GB\Start C#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.csproj.CoreCompileInputs.cache
+F:\GB\Start C#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.dll
+F:\GB\Start C#\Практика\OOP_HW9\obj\Debug\net6.0\refint\OOP_HW9.dll
+F:\GB\Start C#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.pdb
+F:\GB\Start C#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.genruntimeconfig.cache
+F:\GB\Start C#\Практика\OOP_HW9\obj\Debug\net6.0\ref\OOP_HW9.dll
+F:\GB\С#\Практика\OOP_HW9\bin\Debug\net6.0\OOP_HW9.exe
+F:\GB\С#\Практика\OOP_HW9\bin\Debug\net6.0\OOP_HW9.deps.json
+F:\GB\С#\Практика\OOP_HW9\bin\Debug\net6.0\OOP_HW9.runtimeconfig.json
+F:\GB\С#\Практика\OOP_HW9\bin\Debug\net6.0\OOP_HW9.dll
+F:\GB\С#\Практика\OOP_HW9\bin\Debug\net6.0\OOP_HW9.pdb
+F:\GB\С#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\С#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.AssemblyInfoInputs.cache
+F:\GB\С#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.AssemblyInfo.cs
+F:\GB\С#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.csproj.CoreCompileInputs.cache
+F:\GB\С#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.dll
+F:\GB\С#\Практика\OOP_HW9\obj\Debug\net6.0\refint\OOP_HW9.dll
+F:\GB\С#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.pdb
+F:\GB\С#\Практика\OOP_HW9\obj\Debug\net6.0\OOP_HW9.genruntimeconfig.cache
+F:\GB\С#\Практика\OOP_HW9\obj\Debug\net6.0\ref\OOP_HW9.dll
